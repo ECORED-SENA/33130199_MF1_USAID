@@ -1,0 +1,971 @@
+﻿{"frames": [
+
+{
+	"filename": "CharacterGirlStick0000",
+	"frame": {"x":0,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0001",
+	"frame": {"x":160,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0002",
+	"frame": {"x":320,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0003",
+	"frame": {"x":480,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0004",
+	"frame": {"x":640,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0005",
+	"frame": {"x":800,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0006",
+	"frame": {"x":960,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0007",
+	"frame": {"x":1120,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0008",
+	"frame": {"x":1280,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0009",
+	"frame": {"x":1440,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0010",
+	"frame": {"x":1600,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0011",
+	"frame": {"x":1760,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0012",
+	"frame": {"x":1920,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0013",
+	"frame": {"x":2080,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0014",
+	"frame": {"x":2240,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0015",
+	"frame": {"x":2400,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0016",
+	"frame": {"x":2560,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0017",
+	"frame": {"x":2720,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0018",
+	"frame": {"x":2880,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0019",
+	"frame": {"x":3040,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0020",
+	"frame": {"x":3200,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0021",
+	"frame": {"x":3360,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0022",
+	"frame": {"x":3520,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0023",
+	"frame": {"x":3680,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0024",
+	"frame": {"x":3840,"y":0,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0025",
+	"frame": {"x":0,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0026",
+	"frame": {"x":160,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0027",
+	"frame": {"x":320,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0028",
+	"frame": {"x":480,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0029",
+	"frame": {"x":640,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0030",
+	"frame": {"x":800,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0031",
+	"frame": {"x":960,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0032",
+	"frame": {"x":1120,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0033",
+	"frame": {"x":1280,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0034",
+	"frame": {"x":1440,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0035",
+	"frame": {"x":1600,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0036",
+	"frame": {"x":1760,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0037",
+	"frame": {"x":1920,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0038",
+	"frame": {"x":2080,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0039",
+	"frame": {"x":2240,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0040",
+	"frame": {"x":2400,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0041",
+	"frame": {"x":2560,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0042",
+	"frame": {"x":2720,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0043",
+	"frame": {"x":2880,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0044",
+	"frame": {"x":3040,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0045",
+	"frame": {"x":3200,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0046",
+	"frame": {"x":3360,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0047",
+	"frame": {"x":3520,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0048",
+	"frame": {"x":3680,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0049",
+	"frame": {"x":3840,"y":387,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0050",
+	"frame": {"x":0,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0051",
+	"frame": {"x":160,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0052",
+	"frame": {"x":320,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0053",
+	"frame": {"x":480,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0054",
+	"frame": {"x":640,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0055",
+	"frame": {"x":800,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0056",
+	"frame": {"x":960,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0057",
+	"frame": {"x":1120,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0058",
+	"frame": {"x":1280,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0059",
+	"frame": {"x":1440,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0060",
+	"frame": {"x":1600,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0061",
+	"frame": {"x":1760,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0062",
+	"frame": {"x":1920,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0063",
+	"frame": {"x":2080,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0064",
+	"frame": {"x":2240,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0065",
+	"frame": {"x":2400,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0066",
+	"frame": {"x":2560,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0067",
+	"frame": {"x":2720,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0068",
+	"frame": {"x":2880,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0069",
+	"frame": {"x":3040,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0070",
+	"frame": {"x":3200,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0071",
+	"frame": {"x":3360,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0072",
+	"frame": {"x":3520,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0073",
+	"frame": {"x":3680,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0074",
+	"frame": {"x":3840,"y":774,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0075",
+	"frame": {"x":0,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0076",
+	"frame": {"x":160,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0077",
+	"frame": {"x":320,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0078",
+	"frame": {"x":480,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0079",
+	"frame": {"x":640,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0080",
+	"frame": {"x":800,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0081",
+	"frame": {"x":960,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0082",
+	"frame": {"x":1120,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0083",
+	"frame": {"x":1280,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0084",
+	"frame": {"x":1440,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0085",
+	"frame": {"x":1600,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0086",
+	"frame": {"x":1760,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0087",
+	"frame": {"x":1920,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0088",
+	"frame": {"x":2080,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0089",
+	"frame": {"x":2240,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0090",
+	"frame": {"x":2400,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0091",
+	"frame": {"x":2560,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0092",
+	"frame": {"x":2720,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0093",
+	"frame": {"x":2880,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0094",
+	"frame": {"x":3040,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0095",
+	"frame": {"x":3200,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0096",
+	"frame": {"x":3360,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0097",
+	"frame": {"x":3520,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0098",
+	"frame": {"x":3680,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0099",
+	"frame": {"x":3840,"y":1161,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0100",
+	"frame": {"x":0,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0101",
+	"frame": {"x":160,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0102",
+	"frame": {"x":320,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0103",
+	"frame": {"x":480,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0104",
+	"frame": {"x":640,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0105",
+	"frame": {"x":800,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0106",
+	"frame": {"x":960,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0107",
+	"frame": {"x":1120,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0108",
+	"frame": {"x":1280,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0109",
+	"frame": {"x":1440,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0110",
+	"frame": {"x":1600,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0111",
+	"frame": {"x":1760,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0112",
+	"frame": {"x":1920,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0113",
+	"frame": {"x":2080,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0114",
+	"frame": {"x":2240,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0115",
+	"frame": {"x":2400,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0116",
+	"frame": {"x":2560,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0117",
+	"frame": {"x":2720,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0118",
+	"frame": {"x":2880,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}
+,{
+	"filename": "CharacterGirlStick0119",
+	"frame": {"x":3040,"y":1548,"w":160,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":387},
+	"sourceSize": {"w":160,"h":387}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "CharacterGirlStick1.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2111},
+	"scale": "1"
+}
+}
